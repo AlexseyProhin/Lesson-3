@@ -39,7 +39,7 @@ public class Snippets {
             $(withText("ull tex")).click();
 
             $("").parent();
-            $("").sibling(1);
+            $("").sibling(1); сестренский элеиент
             $("").preceding(1);
             $("").closest("div");
             $("").ancestor("div"); // the same as closest
