@@ -31,6 +31,8 @@
 
 P.S. В Selenide есть команда $(element).dragAndDrop($(to-element)), проверьте работает ли тест, если использовать её вместо actions()
 
+     https://github.com/AlexseyProhin/Lesson-3/tree/main/src/test/java/homework
+
 (раньше не работала из-за ошибки в ChromeDriver, но может быть уже починили? :-)).
 
 Если работает - сообщите в группе курса.
